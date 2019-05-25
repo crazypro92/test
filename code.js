@@ -23,7 +23,7 @@ console.log(persone['name']);
 
 let arr = ['plun.png', 'orange.jpg', 'apple.bmp'];
 
-console.log(arr[1])
+console.log(arr[1]);
 
 
 //  let answer = +prompt("Есть ли Вам 18?" , "Да");
